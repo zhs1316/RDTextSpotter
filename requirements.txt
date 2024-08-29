@@ -1,0 +1,16 @@
+cython
+
+submitit
+torch>=1.5.0
+torchvision>=0.6.0
+git+https://github.com/cocodataset/panopticapi.git#egg=panopticapi
+scipy
+termcolor
+addict
+yapf==0.40.1
+timm
+shapely
+rapidfuzz==2.0.0
+editdistance
+numba
+Polygon3
